@@ -1,0 +1,2 @@
+/home/morten/uni/rendering_dtu/CMakeFiles/SOIL.dir
+/home/morten/uni/rendering_dtu/CMakeFiles/raytrace.dir
